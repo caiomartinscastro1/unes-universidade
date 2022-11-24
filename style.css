@@ -1,0 +1,57 @@
+body{
+    background-image: url(imagens/fundo2.png);
+
+}
+
+article{
+    min-width:400px ;
+    max-width: 1000px;
+    margin: auto;
+}
+
+article#dois{
+    min-width:400px ;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 31px;
+}
+
+table{
+    border-width: 1px;
+}
+
+td{
+    width: 600px;
+}
+
+#capa{
+    margin: auto;
+    width: 900px;
+    margin-top: 29px;
+}
+
+div#capa>img{
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+    padding-top: 6px;
+}
+
+form{
+    background-color: lightgrey;
+    min-width: 400px;
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px black;
+    border-color: rgb(44, 44, 44);
+    border-width: 1px;
+    border-style: solid;
+}
+
+input{
+    margin: auto;
+}
